@@ -10,4 +10,4 @@ Para executar os exercícios, siga os passos abaixo:
    ```bash
    git clone https://github.com/DutraA45/target-sistemas-teste.git
 
-
+2. Abra os arquivos HTML e visualize no navegador.
