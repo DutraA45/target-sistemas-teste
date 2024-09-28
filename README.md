@@ -1,6 +1,6 @@
 # Exercicios - Target Sistemas
 
-Este repositório contém uma 3 exercícios feitos em JavaScript, organizados em pastas, respectivamente. Cada exercício possui seu próprio arquivo HTML e um arquivo JavaScript correspondente.
+Este repositório contém 3 exercícios feitos em JavaScript, organizados em pastas, respectivamente. Cada exercício possui seu próprio arquivo HTML e um arquivo JavaScript correspondente.
 
 ## Como Executar
 
